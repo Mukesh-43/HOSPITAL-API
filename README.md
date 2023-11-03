@@ -24,7 +24,7 @@ return the patient info in the API)
 Positive-Admit]
 
 3. Date
-4. 
+
 Routes:
 
 - /doctors/register → with username and password
