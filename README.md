@@ -1,4 +1,4 @@
-This project is a Hospital an API for the doctors of a Hospital which has been allocated by the
+This is an Hospital API for the doctors of a Hospital which has been allocated by the
 govt for testing and quarantine + well being of COVID-19 patients
 
 Features:
